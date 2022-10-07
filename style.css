@@ -1,0 +1,44 @@
+form {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0ddee;
+    padding: 20px;
+    margin: 10px;
+}
+
+body label {
+    float: left;
+    width: 100px;
+    text-align: right;
+    margin-right: 15px;
+}
+
+#content form {
+    height: auto;
+    width: 350px;
+    border: solid 4px #4d365b;
+    padding: 10px 10px 10px 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+fieldset {
+    border: solid 4px #4d365b; 
+}
+
+#mm {
+    margin-left: 20px;
+}
+
+#txt {
+    width: 338px;
+}
+
+#knop {
+    border: solid 1px #d2eeb1;
+    background-color: #fff;
+    color: #d2eeb1;
+    margin-left: 135px;
+    padding: 10px;
+    font-size: normal;
+    border-radius: 5px;
+}
